@@ -28,7 +28,7 @@ https://www.bigdata-policing.kr/board/b_contest/view?idx=167&category=
 
 ## 4. 프로젝트 소개
 
-<img src='./img/지역 치안 안전 경진대회.png' width='100%' height='80%'>
+<img src='./img/지역 치안 안전 경진대회.png' width='40%' height='35%'>
 
  교통사고 발생 지역의 데이터를 분석하고 시각화하는 과정에서, 제공된 데이터를 전처리한 후, 다양한 기법을 활용하여 지역별로 사고 건수를 추출하고 시각화하였습니다.
 
@@ -51,6 +51,11 @@ https://www.bigdata-policing.kr/board/b_contest/view?idx=167&category=
 - 결과
 
 클러스터링 결과, CCTV가 없는 도로에서 사고가 더 빈번하며, 대형 교차로는 교통사고 다발 지역임이 확인되었습니다. CCTV만으로는 한계가 있어 추가 설치와 경찰력 배치가 필요합니다. 또한, 보차혼용도로와 골목의 사고 빈도 분석을 통해 사각지역 거울 설치 등 예방 조치를 강화할 수 있습니다. 이를 통해 교통사고와 사상자 수를 줄일 수 있을 것으로 기대됩니다.
+
+<img src='./img/충남 시각화.png' width='40%' height='35%'>
+<img src='./img/대전 시각화.png' width='40%' height='35%'>
+<img src='./img/세종 시각화.png' width='40%' height='35%'>
+<img src='./img/지역별 cctv 시각화.png' width='40%' height='35%'>
 
 <br/>
 
